@@ -33,7 +33,8 @@ mydata=[
 mydata[0]
 {name: "peter parker", age: 21, email: "peter@mit.edu", courses: Array(2)}
 
-
+mydata[1]
+{name: "bruce wayne", age: 32, email: "bruce@mit.edu", courses: Array(2)}
 
 
 1.3. Exercise: Use JavaScript to Find the Highest Salary
