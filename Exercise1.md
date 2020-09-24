@@ -42,6 +42,8 @@ mydata[1]
 Maximum salary found and the index of that employee
 
 14433@DESKTOP-F7O66S8 MINGW64 ~/node_modules/node-fetch (master)
+
 $ node index.js
+
 Maximum Salary Found: 254357.58 16227
 
