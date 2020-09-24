@@ -1,4 +1,4 @@
-1.1. Exercise: Get Data Using URLs
+### 1.1. Exercise: Get Data Using URLs
 mydata=[
     {
         "name"    : "peter parker",
@@ -37,9 +37,9 @@ mydata[1]
 {name: "bruce wayne", age: 32, email: "bruce@mit.edu", courses: Array(2)}
 
 
-1.3. Exercise: Use JavaScript to Find the Highest Salary
+### 1.3. Exercise: Use JavaScript to Find the Highest Salary
 
-## maximum salary found and the index of that employee
+Maximum salary found and the index of that employee
 
 14433@DESKTOP-F7O66S8 MINGW64 ~/node_modules/node-fetch (master)
 $ node index.js
