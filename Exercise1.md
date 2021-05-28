@@ -37,7 +37,7 @@ mydata[1]
 {name: "bruce wayne", age: 32, email: "bruce@mit.edu", courses: Array(2)}
 
 
-### 1.3. Exercise: Use JavaScript to Find the Highest Salary
+### 1.3. Exercise: Use JavaScript to Find the Highest Salary.
 
 Maximum salary found and the index of that employee
 
